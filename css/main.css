@@ -7,3 +7,19 @@ body {
   background-image: linear-gradient(to bottom, #ff9500, #ff5e3a);
   background-repeat: no-repeat;
 }
+
+.btn {
+  border-color: rgba(255, 255, 255, .6);
+  color: white;
+}
+
+.btn:hover {
+  border-color: white;
+  background-color: white;
+  color: #ff5e3a;
+}
+
+hr {
+  border: .1em solid rgba(255, 255, 255, .3);
+  margin: 0;
+}
